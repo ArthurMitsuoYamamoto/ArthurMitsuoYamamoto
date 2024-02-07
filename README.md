@@ -1,5 +1,5 @@
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArthurMitsuoYamamoto&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
 
 <!-- Tecnologias Utilizadas -->
 <div style="display: inline_block">
