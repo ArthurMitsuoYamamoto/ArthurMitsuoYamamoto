@@ -1,5 +1,5 @@
 # 💫 About Me:
-About me:<br>📅 19 years old.<br>📍 Live in Sao Paulo, Brazil<br>📚 Student of systems analysis and development at FIAP university.<br>🖱️ I aim to work in the area of ​​full-stack programming
+<br>📅 19 years old.<br>📍 Live in Sao Paulo, Brazil<br>📚 Student of systems analysis and development at FIAP university.<br>🖱️ I aim to work in the area of ​​full-stack programming
 
 
 ## 🌐 Socials:
